@@ -1,0 +1,130 @@
+{
+    "Launch_Records": [
+        {
+            "LaunchNumber": "1",
+            "event": "First orbit in the RP; First launch in the RP",
+            "who": "Untitled Aerospace Agency",
+            "year": "2000"
+        },
+        {
+            "LaunchNumber": "2",
+            "event": "First orbit for the APA",
+            "who": "APA",
+            "year": "2000"
+        },
+        {
+            "LaunchNumber": "3",
+            "event": "First orbit for Redstar Aerospace",
+            "who": "Redstar Aerospace",
+            "year": "2000"
+        },
+        {
+            "LaunchNumber": "4",
+            "event": "First orbit for SCF",
+            "who": "SCF",
+            "year": "2001"
+        },
+        {
+            "LaunchNumber": "5",
+            "event": "First suborbital manned flight",
+            "who": "Redstar Aerospace",
+            "year": "2001"
+        },
+        {
+            "LaunchNumber": "6",
+            "event": "First suborbital manned flight",
+            "who": "Untitled Aerospace Agency",
+            "year": "2001"
+        },
+        {
+            "LaunchNumber": "7",
+            "event": "First suborbital manned flight",
+            "who": "Blue Aerospace",
+            "year": "2001"
+        },
+        {
+            "LaunchNumber": "8",
+            "event": "First unmanned lunar probe; First lunar flyby (BetaSat)",
+            "who": "APA",
+            "year": "2002"
+        },
+        {
+            "LaunchNumber": "9",
+            "event": "First manned orbit",
+            "who": "Untitled Aerospace",
+            "year": "2002"
+        },
+        {
+            "LaunchNumber": "10",
+            "event": "First crewed orbit; First ion research mission (Unlocks ion engines)",
+            "who": "Blue Aerospace",
+            "year": "2002"
+        },
+        {
+            "LaunchNumber": "11",
+            "event": "First interplanetary mission; First interplanetary mission to Venus",
+            "who": "SCF",
+            "year": "2003"
+        },
+        {
+            "LaunchNumber": "12",
+            "event": "First suborbital manned flight",
+            "who": "SCF",
+            "year": "2003"
+        },
+        {
+            "LaunchNumber": "13",
+            "event": "Crewed orbital mission (Poronim-3)",
+            "who": "Untitled Aerospace Agency",
+            "year": "2003"
+        },
+        {
+            "LaunchNumber": "14",
+            "event": "Unmanned lunar impactor (Poronim-4)",
+            "who": "Untitled Aerospace Agency",
+            "year": "2003"
+        },
+        {
+            "LaunchNumber": "15",
+            "event": "Lunar communications established",
+            "who": "Redstar Aerospace",
+            "year": "2004"
+        },
+        {
+            "LaunchNumber": "16",
+            "event": "Suborbital research flight (Little Joe 01)",
+            "who": "B.A.D.A.S.S.",
+            "year": "2004"
+        },
+        {
+            "LaunchNumber": "17",
+            "event": "First docking",
+            "who": "Blue Aerospace",
+            "year": "2004"
+        },
+        {
+            "LaunchNumber": "18",
+            "event": "First flyby and orbit of a captured asteroid",
+            "who": "SCF",
+            "year": "2004"
+        },
+        {
+            "LaunchNumber": "19",
+            "event": "First probe return to Earth; First orbit for B.A.D.A.S.S.",
+            "who": "B.A.D.A.S.S.",
+            "year": "2005"
+        },
+        {
+            "LaunchNumber": "20",
+            "event": "First reusable flight",
+            "who": "Redstar Aerospace",
+            "year": "2005"
+        },
+        {
+            "LaunchNumber": "22",
+            "event": "First suborbital reusable flight",
+            "who": "Redstar Aerospace",
+            "year": "2005"
+        }
+    ]
+}
