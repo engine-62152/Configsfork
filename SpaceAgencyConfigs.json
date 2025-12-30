@@ -57,6 +57,14 @@
             "comms": "Normal Comms"
         },
         {
+            "name": "Nuclide Technologies",
+            "owner": "Engine",
+            "type": "Private",
+            "prestige": "0",
+            "status": "Active",
+            "comms": "Normal Comms"
+        },
+        {
             "name": "ISAAD",
             "owner": "AarohanTheAscender/Emperor",
             "type": "Private",
