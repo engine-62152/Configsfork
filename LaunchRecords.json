@@ -150,9 +150,15 @@
             "who": "Danish Aerospace Agency",
             "year": "2006"
         },
-                {
+        {
             "LaunchNumber": "26",
             "event": "Lunar comms established",
+            "who": "Nuclide Technologies",
+            "year": "2006"
+        },
+        {
+            "LaunchNumber": "27",
+            "event": "Uncrewed lunar flyby",
             "who": "Nuclide Technologies",
             "year": "2006"
         }
