@@ -11,3 +11,5 @@ The configs of the SFS 1.6 roleplay
 * J3 Mango
 * Engine
 * FPE Fan
+* ssdcat
+* Roshan
