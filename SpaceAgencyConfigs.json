@@ -69,31 +69,7 @@
             "owner": "AarohantheAscender/Emperor",
             "type": "Private",
             "prestige": "0",
-            "status": "Active",
-            "comms": "Normal Comms"
-        },
-        {
-            "name": "IAD",
-            "owner": "AarohantheAscender/Emperor",
-            "type": "Subsidiary",
-            "prestige": "0",
-            "status": "Active",
-            "comms": "Normal Comms"
-        },
-        {
-            "name": "ISD",
-            "owner": "AarohantheAscender/Emperor",
-            "type": "Subsidiary",
-            "prestige": "0",
-            "status": "Active",
-            "comms": "Normal Comms"
-        },
-        {
-            "name": "SUS",
-            "owner": "AarohantheAscender/Emperor",
-            "type": "Subsidiary",
-            "prestige": "0",
-            "status": "Active",
+            "status": "Planned",
             "comms": "Normal Comms"
         }
     ]
