@@ -6,7 +6,7 @@
             "type": "Government",
             "prestige": "5",
             "status": "Active",
-            "comms": "Lunar Grade"
+            "comms": "Interplanetary Comms [Entry]"
         },
         {
             "name": "Untitled Aerospace Agency",
@@ -46,7 +46,7 @@
             "type": "Private",
             "prestige": "4.25",
             "status": "Active",
-            "comms": "Interplanetary Comms"
+            "comms": "Interplanetary Comms [Entry]"
         },
         {
             "name": "B.A.D.A.S.S.",
@@ -54,7 +54,7 @@
             "type": "Private",
             "prestige": "9",
             "status": "Leader in Exploration",
-            "comms": "Interplanetary Comms"
+            "comms": "Interplanetary Comms [Entry]"
         },
         {
             "name": "Nuclide Technologies",
