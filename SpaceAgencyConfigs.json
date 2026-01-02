@@ -103,6 +103,15 @@
             "prestige": "0",
             "status": "Active",
             "comms": "Normal Comms"
+        },
+        {
+            "name": "New Dawn Engineering & Aerospace",
+            "owner": "SadCashier20",
+            "type": "Private",
+            "prestige": "0",
+            "status": "Active",
+            "comms": "Normal Comms",
+            "slogan": "Building the stairs to the future of innovation, one step at a time"
         }
     ]
 }
