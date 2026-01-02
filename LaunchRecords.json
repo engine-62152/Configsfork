@@ -175,7 +175,11 @@
     },
     {
       "event": "First suborbital mission and flight for VASA.",
-      "who": "VASA"
+      "who": "VASA"  
+    },
+    {
+      "event": "Ionic Reaserch, First Microasteroid Observer.",
+      "who": "B.A.D.A.S.S."
     }
   ]
 }
