@@ -178,6 +178,10 @@
             "who": "VASA"
         },
         {
+            "event": "Leto 2 Launch and LES test.",
+            "who": "New Dawn Engineering and Aerospace"
+        },
+        {
             "event": "Ionic Reaserch, First Microasteroid Observer.",
             "who": "B.A.D.A.S.S."
         },
@@ -188,6 +192,10 @@
         {
             "event": "First O-space orbital mission",
             "who": "O-space"
+        },
+         {
+            "event": "Leto 2B Launch and Service Module Test (result: fail)",
+            "who": "New Dawn Engineering and Aerospace"
         }
     ]
 }
