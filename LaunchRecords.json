@@ -220,6 +220,10 @@
         {
              "event": "Habitat launch to LEO",
              "who": "Untitled Aerospace Agency"
+        },
+        {
+             "event": "First crewed Venus flyby, first crew outside of the earths SOI",
+             "who": "Untitled Aerospace Agency"
         }
     ]
 }
