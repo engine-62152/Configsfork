@@ -216,6 +216,10 @@
         {
              "event": "First unmanned orbit for Leto 2C, upper stage test",
              "who": "New Dawn Engineering and Aerospace"
+        },
+        {
+             "event": "Habitat launch to LEO",
+             "who": "Untitled Aerospace Agency"
         }
     ]
 }
