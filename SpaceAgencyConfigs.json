@@ -119,6 +119,14 @@
             "prestige": "0",
             "status": "Active",
             "comms": "Normal Comms"
+        },
+        {   
+            "name": "The marine and space environment project agency",
+            "owner": "Davidthesfsfan",
+            "type": "Public",
+            "prestige": "0",
+            "status": "Active",
+            "comms": "Normal Comms"
         }
     ]
 }
