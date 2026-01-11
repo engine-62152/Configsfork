@@ -295,11 +295,11 @@
         },
         {
             "event": "Unmanned lunar flyby, used LEOLV-1/H",
-            "Who": "Chimken Space Research Organization"
+            "who": "Chimken Space Research Organization"
         },
         {
             "event": "Chandrium-I in lunar orbit, used LEOLV-1/H",
-            "Who": "Chimken Space Research Organization"
+            "who": "Chimken Space Research Organization"
         }
     ]
 }
