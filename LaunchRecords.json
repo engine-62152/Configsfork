@@ -300,6 +300,10 @@
         {
             "event": "Chandrium-I in lunar orbit, used LEOLV-1/H",
             "who": "Chimken Space Research Organization"
+        },
+        {
+            "event": "First Flyer test for MACEP",
+            "who": "The marine and space environment project agency"
         }
     ]
 }
