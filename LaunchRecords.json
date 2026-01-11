@@ -304,6 +304,10 @@
         {
             "event": "First Flyer test for MACEP",
             "who": "The marine and space environment project agency"
+        },
+        {
+            "event": "First Test launch of Re-Usable Falconete SN-1",
+            "who": "Chimken Space Research Organization"
         }
     ]
 }
