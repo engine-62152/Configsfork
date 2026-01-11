@@ -312,6 +312,10 @@
         {
             "event": "Crewed lunar orbit, used Zaloga Block II LV",
             "who": "Untitled Aerospace Agency"
+        },
+        {
+            "event": "Hermes 2 static fire test",
+            "who": "New Dawn Engineering and Aerospace"
         }
     ]
 }
