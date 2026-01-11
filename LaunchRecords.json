@@ -272,6 +272,23 @@
         {
              "event": "Uncrewed lunar landing",
              "who": "Untitled Aerospace Agency"
+        },
+        {    
+            "event": "CSRO's first LEO",
+             "who": "Chimken Space Research Organization"
+        },
+        { 
+            "event": "Launch of NavSat-1A in LEO",
+            "who": "Chimken Space Research Organization"
+        },
+        {
+            "event": "Launch of NavSat-1B,1C and 1D in LEO",
+            "who": "Chimken Space Research Organization"
+        },
+        {
+            "event": "Launch of Radaat-H/1R in HEO",
+            "who": "Chimken Space Research Organization"
         }
-    ]
-}
+        
+        
+
