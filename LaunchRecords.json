@@ -320,6 +320,10 @@
         {
             "event": "Moongate Official Launch to Lunar Orbit",
             "who": "Redstar Aerospace"
+        },
+        {
+            "event": "Launch of 6 ChimkenLink Satelites in Low Earth Orbit",
+            "who": "Chimken Space Research Organization"
         }
     ]
 }
