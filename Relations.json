@@ -24,6 +24,11 @@
             "name": "Interplanetary comms exchange",
             "what": "TheMacTester allows ilikespace to use their interplanetary comms in exchange for him being able to dock and add modules to the Gaia-1 station",
             "who": "TheMacTester, ilikespace"
+        },
+        {
+            "name": "MoonGate (Lunar Space Station)",
+            "what": "MoonGate is a Free to dock Lunar Space Station",
+            "who": "ssdcat, Chimken48"
         }
     ]
 }
