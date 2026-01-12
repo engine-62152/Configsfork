@@ -340,6 +340,10 @@
         {
             "event": "First phobos and deimos landing, orbiting and marsian orbiter, used Ladunek LV",
             "who": "Untitled Aerospace Agency"
+        },
+        {
+            "event": "Launch of 6 ChimkenLink Satelites in LEO, used Falconete SN-1", 
+            "who": "Chimken Space Research Organization"
         }
     ]
 }
