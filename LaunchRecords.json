@@ -356,6 +356,10 @@
         {
             "event": "Launched 8 ChimkenLink V2's in LEO, used Falconete SN-2",
             "who": "Chimken Space Research Organization"
+        },
+        {
+            "event": "Failed Mars landing, craft burnt during reentry, used Ladunek LV",
+            "who": "Untitled Aerospace Agency"
         }
     ]
 }
