@@ -348,6 +348,10 @@
         {
             "event": "Docked Lunar Lab module to Moongate, used Falconete-Heavy",
             "who": "Chimken Space Research Organization"
+        },
+        {
+            "event": "Hera 8 'Longivity' Launched to Lunar orbit",
+            "who": "Canary Industries"
         }
     ]
 }
